@@ -1,5 +1,13 @@
 [
   {
+  "name": "XGT Token",
+  "symbol": "XGT",
+  "address": "0x654E38A4516F5476D723D770382A5EaF8Bae0e0D",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/LuisReis51/XGT-Token/main/xgt-logo-96.png"
+},
+  {
     "name": "WBNB Token",
     "symbol": "WBNB",
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
